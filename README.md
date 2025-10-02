@@ -1,3 +1,4 @@
+# Мой комментарий
 # Django-loki
 Python logging handler and formatter with grafana/loki for django
 
